@@ -1767,10 +1767,9 @@ crypto-browserify@^3.0.0:
     randombytes "^2.0.0"
     randomfill "^1.0.3"
 
-currencyformatter.js@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/currencyformatter.js/-/currencyformatter.js-1.0.5.tgz#f8c6d945dce6b67ef48f475168611a8d95c9c75e"
-  integrity sha1-+MbZRdzmtn70j0dRaGEajZXJx14=
+"currencyformatter.js@https://github.com/PureClarity/currencyFormatter.js.git":
+  version "2.2.0"
+  resolved "https://github.com/PureClarity/currencyFormatter.js.git#04c09df6863560aef850d04203d560218ee4af5f"
 
 currently-unhandled@^0.4.1:
   version "0.4.1"

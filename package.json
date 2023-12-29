@@ -45,7 +45,7 @@
     "browserify-istanbul": "^2.0.0",
     "browserify-shimify": "0.1.0-0",
     "codecov": "^3.0.2",
-    "currencyformatter.js": "^1.0.5",
+    "currencyformatter.js": "https://github.com/PureClarity/currencyFormatter.js.git",
     "eslint": "^8.7.0",
     "eslint-config-leapfrog": "^2.0.1",
     "faker": "^4.1.0",
@@ -71,7 +71,7 @@
     "watchify": "^3.11.0"
   },
   "peerDependencies": {
-    "currencyformatter.js": ">= 1.0.4 < 2",
+    "currencyformatter.js": ">=2",
     "handlebars": ">= 3.*",
     "moment": ">= 2.22.0 < 3",
     "sprintf-js": ">= 1.1.1 < 2"
